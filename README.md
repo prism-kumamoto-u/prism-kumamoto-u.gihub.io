@@ -1,4 +1,4 @@
-# prism-kumamoto-u.gihub.io
+# prism-kumamoto-u.github.io
 熊本大学 物理学・数学サークル Prism の公式サイト用レポジトリ
 
 2022年9月21日作成
