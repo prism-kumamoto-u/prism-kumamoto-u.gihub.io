@@ -1,4 +1,5 @@
-baseURL = 'https://prism-kumamoto-u.github.io/'
+baseURL = ''
+# baseURL = 'https://prism-kumamoto-u.github.io/'
 languageCode = 'ja'
 title = "Prism"
 theme = "ananke"
