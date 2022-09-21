@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'prism-kumamoto-u/prism-kumamoto-u.gihub.io'
 languageCode = 'ja'
 title = "Prism"
 theme = "ananke"
