@@ -1,10 +1,13 @@
 ---
 title: "About"
 date: 2022-09-20T15:01:29+09:00
-draft: true
-menu:
+tags: []
+featured_image: ""
+description: ""
+menu: 
   main:
-    weight: 3
+      weight: 3
+draft: false
 ---
 
 # About 

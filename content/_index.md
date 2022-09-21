@@ -7,7 +7,7 @@ description: ""
 menu: 
   main:
       weight: 1
-draft: true
+draft: false
 ---
 
 <!-- 左寄席にしたいので、生のHTML追加。テキスト幅がちょっと狭いけど、とりあえずよし。 -->
