@@ -2,7 +2,7 @@
 title: "熊本大学物理学・数学サークル"
 date: 2022-09-20T14:50:26+09:00
 tags: []
-featured_image: ""
+featured_image: "Prism_logo.png"
 description: ""
 menu: 
   main:
