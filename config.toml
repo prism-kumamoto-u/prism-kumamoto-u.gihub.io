@@ -1,0 +1,10 @@
+baseURL = ''
+languageCode = 'ja'
+title = "Prism"
+theme = "ananke"
+
+# 生のHTMLをmdファイルに書くために追加
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
