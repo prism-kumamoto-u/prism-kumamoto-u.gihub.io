@@ -1,4 +1,5 @@
 # gh-pages.ymlの方でも問題なく動きそうなので、とりあえずtxtファイルとして分けておく。
+# 2022/10/01　ちょっとこっちを使ってみる
 
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
