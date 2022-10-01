@@ -2,7 +2,7 @@
 title: "熊本大学物理学・数学サークル"
 date: 2022-09-20T14:50:26+09:00
 tags: []
-featured_image: "Prism_logo.png"
+# featured_image: "Prism_logo.png"
 description: ""
 menu: 
   main:
@@ -10,7 +10,7 @@ menu:
 draft: false
 ---
 
-<!-- 左寄席にしたいので、生のHTML追加。テキスト幅がちょっと狭いけど、とりあえずよし。 -->
+<!-- 左寄にしたいので、生のHTML追加。テキスト幅がちょっと狭いけど、とりあえずよし。 -->
 <div style="text-align: left">
 
 # 物理学サークルPrismとは
